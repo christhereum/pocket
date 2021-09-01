@@ -4,12 +4,12 @@
 La API está en .NET Core 3.1
 
 ## Base de datos
-Use Sql Server 2019, dejo adjunto el archivo pocket_scripts.sql con los CREATE de las tablas (también drops y selects por las dudas). 
+Use Sql Server 2019, dejo adjunto el archivo **pocket_scripts.sql** (dentro de carpeta Adjuntos) con los CREATE de las tablas (también drops y selects por las dudas). 
 Pueden hacerlo corriendo el script o usando Add-Migration / Update-Database de la consola de administrador de paquetes de Visual Studio.
 
 ## Documentación
 Link de la documentación de los métodos generada por Postman: https://documenter.getpostman.com/view/3257129/U16dSogX
-También adjunto el archivo Pocket.postman_collection.json para importarlo directamente en Postman y testear todos los metodos de la API.
+También adjunto el archivo **Pocket.postman_collection.json** (dentro de carpeta Adjuntos) para importarlo directamente en Postman y testear todos los metodos de la API.
 
 ## Aclaraciones sobre el Modelo y Lógica
 A fines del test, puse algunos datos tal y como se lo pide ya que no son de mucha relevancia y es solo agrandar el proyecto sin sumar complejidad.
