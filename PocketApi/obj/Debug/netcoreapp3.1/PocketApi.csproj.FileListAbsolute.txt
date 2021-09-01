@@ -60,3 +60,4 @@ C:\pocket\api\PocketApi\PocketApi\obj\Debug\netcoreapp3.1\PocketApi.csproj.CopyC
 C:\pocket\api\PocketApi\PocketApi\obj\Debug\netcoreapp3.1\PocketApi.dll
 C:\pocket\api\PocketApi\PocketApi\obj\Debug\netcoreapp3.1\PocketApi.pdb
 C:\pocket\api\PocketApi\PocketApi\obj\Debug\netcoreapp3.1\PocketApi.genruntimeconfig.cache
+C:\pocket\api\PocketApi\PocketApi\obj\Debug\netcoreapp3.1\PocketApi.csproj.AssemblyReference.cache

@@ -41,7 +41,7 @@ namespace PocketApi.EmpleadoData
             if (existingEmpleado != null)
             {
                 int existingDni = _pocketContext.Empleados
-                .Where(x => x.Dni == empleado.Dni)
+                .Where(x => x.Dni == empleado.Dni && x.Legajo != empleado.Legajo)
                 .Count();
 
                 if (existingDni == 0)
