@@ -230,7 +230,7 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "https://localhost:44359/api/adelantos/ABCDE12345",
+					"raw": "https://localhost:44359/api/adelantos/00000AAAAA",
 					"protocol": "https",
 					"host": [
 						"localhost"
@@ -239,7 +239,7 @@
 					"path": [
 						"api",
 						"adelantos",
-						"ABCDE12345"
+						"00000AAAAA"
 					]
 				}
 			},
